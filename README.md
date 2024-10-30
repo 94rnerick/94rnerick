@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick Rinaldo Rodrigues Pereira</h1>
-<h3 align="center">Analista de TI, estudante de programação e cloud. Sou uma pessoa comprometida e responsável, possuo boa comunicação e estou constantemente em busca de aperfeiçoamento e conhecimento.</h3>
+<h3 align="center">Sou um profissional comprometido e responsável, com habilidades sólidas em negociação e uma grande paixão por Linux e Redes de Computadores. Com experiência prática em ambientes de Docker em um home server baseado em Ubuntu, desenvolvi habilidades técnicas que me permitem enfrentar desafios de forma eficaz. Atualmente, estou me aprofundando nas plataformas de Cloud Computing, focando em AWS e Azure, com o objetivo de me tornar um Cloud Engineer. Estou sempre em busca de aperfeiçoamento e aprendizado contínuo, pois acredito que a inovação e a adaptação são essenciais no campo da tecnologia.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
